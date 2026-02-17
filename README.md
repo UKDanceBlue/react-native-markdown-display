@@ -9,6 +9,10 @@ It a 100% compatible CommonMark renderer, a react-native markdown renderer done 
 - [jonasmerlin/react-native-markdown-display](https://github.com/jonasmerlin/react-native-markdown-display): Second Fork
 - [@jthoward64](https://github.com/jthoward64): Typescript port
 
+---
+The original [mientjan/react-native-markdown-renderer](https://github.com/mientjan/react-native-markdown-renderer) is now maintained again, prefer that library to this one
+---
+
 
 ### Compatibility with react-native-markdown-renderer
 
